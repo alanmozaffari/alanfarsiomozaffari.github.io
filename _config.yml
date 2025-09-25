@@ -1,7 +1,46 @@
-# Site settings
-title: Alan Mozaffari
-description: Personal site showcasing projects
-theme: minima
+
+
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "Alan Farsio Mozaffari
+theme                    : jekyll-theme-primer
+title_separator          : "-"
+name                     : &name "Alan Farsio Mozaffari"
+description              : &description "this is real this is me"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://alanmozaffari.github.io                                                   
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "alanmozaffari/alanmozaffari.github.io"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "Alan Mozaffari_Headshot.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "he/him/his"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "San Francisco, CA"
+  employer         : "UC Berkeley"
+  uri              : # URL
+  email            : "none@example.org" 
+
+  # Academic websites
+  academia         : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=kEKfrBIAAAAJ&hl=en&oi=ao"
+  linkedin         : "https://www.linkedin.com/in/alan-farsio-mozaffari/"
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Navigation tabs
 nav:
@@ -9,3 +48,7 @@ nav:
     url: /
   - title: Projects
     url: /projects/
+
+
+
+
