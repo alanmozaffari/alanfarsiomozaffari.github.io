@@ -2,7 +2,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alan Farsio Mozaffari
+title                    : "Alan Farsio Mozaffari"
 theme                    : jekyll-theme-primer
 title_separator          : "-"
 name                     : &name "Alan Farsio Mozaffari"
@@ -18,7 +18,7 @@ author:
   # Biographic information
   avatar           : "Alan Mozaffari_Headshot.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "he/him/his"  
+  pronouns         : "he/him/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "San Francisco, CA"
   employer         : "UC Berkeley"
