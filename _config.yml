@@ -5,8 +5,8 @@ locale                   : "en-US"
 title                    : "Alan Farsio Mozaffari"
 theme                    : jekyll-theme-primer
 title_separator          : "-"
-name                     : &name "Alan Farsio Mozaffari"
-description              : &description "this is real this is me"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : name "Alan Farsio Mozaffari"
+description              : description "this is real this is me"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://alanmozaffari.github.io                                                   
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alanmozaffari/alanmozaffari.github.io"
@@ -22,11 +22,11 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "San Francisco, CA"
   employer         : "UC Berkeley"
-  uri              : # URL
+#  uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
+#  academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=kEKfrBIAAAAJ&hl=en&oi=ao"
   linkedin         : "https://www.linkedin.com/in/alan-farsio-mozaffari/"
 
@@ -185,7 +185,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
