@@ -1,0 +1,11 @@
+# Site settings
+title: Alan Mozaffari
+description: Personal site showcasing projects
+theme: minima
+
+# Navigation tabs
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
